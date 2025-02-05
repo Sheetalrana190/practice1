@@ -7,6 +7,6 @@ echo "$sentence"
 if [ "$sentence" = "hello" ];
 then
 	echo "Success"
-else 
-	echo "Failed" 
+else
+	echo "Failed"
 fi
